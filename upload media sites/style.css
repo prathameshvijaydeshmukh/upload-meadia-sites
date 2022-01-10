@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(228, 228, 250);
+}
+
+.header {
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.row {
+    margin: 0px -60px;
+}
+
+h6 {
+    font-size: -1rem;
+}
+
+.text-left h6 {
+    font-size: small;
+}
+
+.btn {
+    width: 186px
+}
+
+.step3 {
+    margin-bottom: 150px;
+}
+
+.addstate {
+    border-top: dashed;
+    border-color: purple;
+}
+
+.addstate h6 {
+    color: purple;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 105px;
+}
+
+.ml-36 {
+    margin-left: 36px;
+    color: #007bff;
+}
+
+.ml-31 {
+    margin-left: 31px;
+}
+
+.red-alert {
+    width: 20px;
+    height: 20px;
+}
+
+.checked {
+    height: 20px;
+}
+
+.loading {
+    transform: rotate(180deg);
+    height: 50px;
+    width: 50px;
+}
+
+.upload-text {
+    margin-right: 32px;
+}
